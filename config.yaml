@@ -1,0 +1,5 @@
+directory: "data"
+file_prefix: "page_"
+root_hash_file: "hash"
+num_pages: 5
+page_size: 256
